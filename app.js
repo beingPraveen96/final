@@ -385,7 +385,7 @@ const menu = [
   price:120,
   img: "./images/item-36.jpeg",
   desc:"Make these smashed white bean and spinach quesadillas ahead of time and stash them in the freezer for an easy and healthy lunch that actually fills you up!",
-  link:"https://www.google.com/maps/place/FitMeals+India+-+Healthy+food+Hyderabad/@17.4218103,78.3972506,13z/data=!4m8!1m2!2m1!1sdiet+restaurant!3m4!1s0x3bcb972ab5912a5f:0x5847c3be01ba0eea!8m2!3d17.4245471!4d78.4310742",
+  link:"https://www.google.com/maps/place/Cafe+Eclat/@17.4350786,78.3650638,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb93ee7dacc4a3:0x3d38e1e6fdee0947!8m2!3d17.4350786!4d78.3672525",
   Restaurant:"Cafe Eclat,near  Gachibowli flyover",
 },
 {
@@ -418,7 +418,7 @@ const menu = [
   price:260,
   img: "./images/item-39.jpeg",
   desc:"Refreshing quinoa black bean salad is a big batch salad you can prep ahead. Perfect for a picnic, pot luck, or meal prep lunch! Gluten-free, vegetarian (vegan-friendly!), and clean eating.",
-  link:"https://www.google.com/maps/place/FitMeals+India+-+Healthy+food+Hyderabad/@17.4218103,78.3972506,13z/data=!4m8!1m2!2m1!1sdiet+restaurant!3m4!1s0x3bcb972ab5912a5f:0x5847c3be01ba0eea!8m2!3d17.4245471!4d78.4310742",
+  link:"https://www.google.com/maps/place/Cafe+Eclat/@17.4350786,78.3650638,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb93ee7dacc4a3:0x3d38e1e6fdee0947!8m2!3d17.4350786!4d78.3672525",
   Restaurant:"Cafe Eclat,near  Gachibowli flyover",
 },
 {
